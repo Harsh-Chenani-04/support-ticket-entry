@@ -1,0 +1,36 @@
+.pad {
+    margin-left: 15px;
+    font-size: 0.85em;
+    margin-right: 10px;
+
+}
+
+.head {
+    font-size: 1.3em;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+thead {
+    background-color: #e1dada;
+
+}
+
+th {
+    padding: 5px;
+    padding-right: 20px;
+    margin-right: 15px;
+    text-align: left;
+    border-bottom: 1px solid #eedfdf;
+   
+    font-size: 1.2em;
+}
+
+table {
+    margin-top: 20px;
+}
+
+tbody tr {
+    margin-bottom: 10px;
+  
+}
